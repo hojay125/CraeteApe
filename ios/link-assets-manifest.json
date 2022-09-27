@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/DidactGothic-Regular.ttf",
+      "sha1": "2a65aaeeada5705400f92468795623d345ed7274"
+    },
+    {
+      "path": "assets/fonts/sofiapro-light.otf",
+      "sha1": "5bb36b9218ece13431f76663d000433a9b37cba1"
+    }
+  ]
+}
